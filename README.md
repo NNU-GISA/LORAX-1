@@ -1,4 +1,6 @@
 ___________ORIGINAL README
+
+
 # LORAX
 CVPR Oral Presentation Paper - "3D Point Cloud Registration for Localization using a Deep Neural Network Auto-Encoder" 
 
@@ -16,6 +18,8 @@ Using this you can define exactly how many Super-points should be created, how m
 *The basis code for the Super-point Auto-encoder Feature generator will be included.
 
 *Requires Python  3.5 or higher
+
+
 ___________ORIGINAL README ENDS HERE
 
 
